@@ -1,4 +1,4 @@
-Site acessível sobre Charlie Brown Jr.
+Site acessível sobre o Egito Antigo
 Sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
 
